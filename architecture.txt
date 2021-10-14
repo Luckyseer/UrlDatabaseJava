@@ -1,0 +1,2 @@
+Uses json simple-1.1.1 as a dependancy for json operations.
+Most of the code is run through the main class itself which isn't ideal but was done to save some time.
